@@ -13,6 +13,6 @@ function greet(name){
     }
 }
 
-console.log(greet('Siim'))
+console.log(greet(''))
 
 console.log(greet(['Bob','June']))
